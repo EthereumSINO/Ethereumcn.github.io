@@ -419,13 +419,13 @@ section h3.section-subheading {
     margin: 0;
     text-transform: none;
     font-family: sans-serif;
+    font-size: 15px;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: {{ site.data.template.font.secondary }};
-    font-size: 16px;
-    font-style: italic;
+    font-family: sans-serif;
+    font-size: 14px;
 }
 
 #portfolio * {
